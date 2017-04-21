@@ -1,0 +1,50 @@
+Chen, 3124673783, 430 east 33th St Chicago, 20140717, 1230, number of set A: 3  number of set B:4  number of set C:2
+,  total price: $175, total 71 chicken wings
+Joseph, 3125374819, 3312 S Lowe Ave Chicago, 20140718, 1200, number of set A: 3  number of set B:2  number of set C:5
+,  total price: $210, total 91 chicken wings
+Yan, 31287365813, 2363 wallace St Chicago, 20140718, 1430, number of set A: 3  number of set B:2  number of set C:3
+,  total price: $160, total 67 chicken wings
+Smith, 3122346656, 10 west 35th St Chicago, 20140718, 1600, number of set A: 3  number of set B:2  number of set C:6
+,  total price: $235, total 103 chicken wings
+Zhang, 3123453678, 3609 southwoods St Chicago, 20140719, 1000, number of set A: 1  number of set B:2  number of set C:81
+,  total price: $2080, total 993 chicken wings
+David, 31298035113, 3309 union Ave Chicago, 20140720, 1300, number of set A: 4  number of set B:3  number of set C:1
+,  total price: $145, total 56 chicken wings
+Phelps, 8722143423, 3420 Jackson St Chicago, 20140721, 1030, number of set A: 2  number of set B:3  number of set C:3
+,  total price: $165, total 70 chicken wings
+Huang, 3124578356, 251 west 35th St Chicago, 20140721, 1300, number of set A: 2  number of set B:2  number of set C:1
+,  total price: $85, total 38 chicken wings,   coupon: $10
+Brooke, 3128756153, 3342 S west 36th St Chicago, 20140722, 1230, number of set A: 0  number of set B:1  number of set C:6
+,  total price: $165, total 80 chicken wings,   coupon: $5
+Green, 3128892097, 100 east 31st St Chicago, 20140722, 1830, number of set A: 2  number of set B:0  number of set C:5
+,  total price: $140, total 70 chicken wings,   coupon: $15
+Wang, 3120854313, 3123 cermark St Chicago, 20140723, 1100, number of set A: 3  number of set B:2  number of set C:1
+,  total price: $110, total 43 chicken wings
+Liu, 3124529421, 220 south 29th St Chicago, 20140723, 1130, number of set A: 1  number of set B:3  number of set C:5
+,  total price: $200, total 89 chicken wings
+Jason, 3126509812, 67 south 28th St Chicago, 20140723, 1530, number of set A: 2  number of set B:3  number of set C:5
+,  total price: $215, total 94 chicken wings
+Sydney, 3127842341, 3321 S Wabash Ave Chicago, 20140724, 1100, number of set A: 4  number of set B:3  number of set C:4
+,  total price: $220, total 92 chicken wings
+Shi, 31209876385, 3520 wells St Chicago, 20140724, 1230, number of set A: 5  number of set B:6  number of set C:2
+,  total price: $225, total 97 chicken wings,   coupon: $20
+Steven, 3128746213, 3059 S Aberdeen St Chicago, 20140724, 1400, number of set A: 4  number of set B:3  number of set C:2
+,  total price: $170, total 68 chicken wings
+Taylor, 3126532672, 3459 S Michigan Ave Chicago, 20140725, 1230, number of set A: 3  number of set B:5  number of set C:5
+,  total price: $270, total 115 chicken wings
+Kyle, 3124567212, 3312 S May St Chicago, 20140725, 1500, number of set A: 2  number of set B:5  number of set C:1
+,  total price: $140, total 62 chicken wings,   coupon: $15
+Zoe, 3124352134, 3506 S Halsted St Chicago, 20140726, 1200, number of set A: 2  number of set B:3  number of set C:4
+,  total price: $190, total 82 chicken wings
+Alexis, 3125642342, 3312 S Clark St Chicago, 20140817, 0930, number of set A: 3  number of set B:2  number of set C:3
+,  total price: $150, total 67 chicken wings,   coupon: $10
+Zhao, 31254730652, 3415 ashland St Chicago, 20140820, 1130, number of set A: 4  number of set B:5  number of set C:7
+,  total price: $335, total 144 chicken wings
+Henry, 3127464861, 3012 S Lituanica St Chicago, 20140917, 1400, number of set A: 200  number of set B:0  number of set C:0
+,  total price: $2995, total 1000 chicken wings,   coupon: $5
+Bryan, 3123746231, 3153 S Morgan St Chicago, 20141126, 1130, number of set A: 1  number of set B:2  number of set C:4
+,  total price: $145, total 69 chicken wings,   coupon: $10
+Pu, 31285726129, 3351 normal Ave Chicago, 20150219, 1530, number of set A: 5  number of set B:40  number of set C:2
+,  total price: $915, total 369 chicken wings,   coupon: $10
+Daniel, 8722145724, 1230 northbook St Chicago, 20150720, 1500, number of set A: 2  number of set B:4  number of set C:3
+,  total price: $185, total 78 chicken wings
